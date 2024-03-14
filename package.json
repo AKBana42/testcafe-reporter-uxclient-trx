@@ -1,22 +1,22 @@
 {
-  "name": "testcafe-reporter-custom",
+  "name": "testcafe-reporter-uxclient-trx",
   "version": "1.2.1",
-  "description": "TestCafe reporter that allows you to provide your own logic",
+  "description": "TestCafe reporter that allows you to provide your own logic that generate MSTest trx files. (fork from https://github.com/ocassio/testcafe-reporter-custom version 1.2.1)",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ocassio/testcafe-reporter-custom.git"
+    "url": "git+https://github.com/AKBana42/testcafe-reporter-uxclient-trx.git"0
   },
   "keywords": [
     "testcafe",
     "reporter",
     "plugin"
   ],
-  "author": "Alexander Ionov",
+  "author": "AKBana42",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ocassio/testcafe-reporter-custom/issues"
+    "url": "https://github.com/AKBana42/testcafe-reporter-uxclient-trx/issues"
   },
-  "homepage": "https://github.com/ocassio/testcafe-reporter-custom#readme",
+  "homepage": "https://github.com/AKBana42/testcafe-reporter-uxclient-trx#readme",
   "dependencies": {}
 }
