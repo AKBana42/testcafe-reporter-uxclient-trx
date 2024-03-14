@@ -8,10 +8,10 @@
     "test": "testcafe chrome src -r custom"
   },
   "keywords": [],
-  "author": "Alexander Ionov",
-  "license": "ISC",
+  "author": "AKBana42",
+  "license": "MIT",
   "devDependencies": {
     "testcafe": "^3.5.0",
-    "testcafe-reporter-custom": "*"
+    "testcafe-reporter-uxclient-trx": "*"
   }
 }
