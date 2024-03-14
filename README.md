@@ -1,4 +1,4 @@
-# testcafe-reporter-custom
+# testcafe-reporter-uxclient-trx
 
 
 This is the **custom** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).
@@ -6,7 +6,7 @@ This is the **custom** reporter plugin for [TestCafe](http://devexpress.github.i
 ## Install
 
 ```sh
-npm install testcafe-reporter-custom
+npm install testcafe-reporter-uxclient-trx
 ```
 
 ## Usage
@@ -97,7 +97,7 @@ module.exports = {
 };
 ```
 
-As `testcafe-reporter-custom` use `ts-node` in order to execute TypeScript files, all it's rules are applied.
+As `testcafe-reporter-uxclient-trx use `ts-node` in order to execute TypeScript files, all it's rules are applied.
 
 If you want to provide additional `ts-node` options, you can use `tsOptions` in the reporter configuration file.  
 For example, you can specify custom `tsconfig` file using the following configuration:
