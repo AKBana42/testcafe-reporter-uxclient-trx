@@ -2,6 +2,7 @@
 
 
 This is the **custom** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).
+It maps and saves testcafe results into a MSTest trx file
 
 ## Install
 
